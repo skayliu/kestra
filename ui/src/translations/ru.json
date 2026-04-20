@@ -771,6 +771,10 @@
       "no options found": "Опции не найдены",
       "operator": "Оператор фильтра",
       "options": "Параметры данных",
+      "parentId": {
+        "description": "Filter by parent execution ID",
+        "label": "Parent Execution ID"
+      },
       "periodic refresh": "Периодическое обновление",
       "refresh": "Обновить данные",
       "reset": "Очистить все",
