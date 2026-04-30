@@ -771,6 +771,10 @@
       "no options found": "कोई विकल्प नहीं मिला",
       "operator": "फ़िल्टर ऑपरेटर",
       "options": "डेटा विकल्प",
+      "parentId": {
+        "description": "Filter by parent execution ID",
+        "label": "Parent Execution ID"
+      },
       "periodic refresh": "आवधिक रिफ्रेश",
       "refresh": "डेटा रिफ्रेश करें",
       "reset": "सभी साफ़ करें",
