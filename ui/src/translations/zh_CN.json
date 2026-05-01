@@ -771,6 +771,10 @@
       "no options found": "未找到选项",
       "operator": "过滤运算符",
       "options": "数据选项",
+      "parentId": {
+        "description": "Filter by parent execution ID",
+        "label": "Parent Execution ID"
+      },
       "periodic refresh": "定期刷新",
       "refresh": "刷新数据",
       "reset": "清除所有",
